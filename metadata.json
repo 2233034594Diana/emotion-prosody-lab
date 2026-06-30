@@ -1,0 +1,8 @@
+{
+  "name": "Emotion Prosody & Cognitive Load Lab",
+  "description": "Aplicación de investigación en psicología cognitiva y neurociencia afectiva para evaluar el reconocimiento emocional auditivo y la carga cognitiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
